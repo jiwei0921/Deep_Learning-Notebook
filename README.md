@@ -12,7 +12,7 @@ Make some brief summaries on the reading of related papers (saliency detection a
 
 ## Salient Object Detection
 
-* ***[RGBD Salient Object Detection: A Benchmark and Algorithms]***(https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf) (2015 ECCV).   
+* [RGBD Salient Object Detection: A Benchmark and Algorithms](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf) (2014 ECCV).   
 
 
 ## Relation Extraction
