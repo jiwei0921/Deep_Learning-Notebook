@@ -12,7 +12,7 @@ Make some brief summaries on the reading of related papers (saliency detection a
 
 ## Salient Object Detection
 
-### * [RGBD Salient Object Detection: A Benchmark and Algorithms](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf) (2014 ECCV).   
+### * [RGBD Salient Object Detection: A Benchmark and Algorithms](http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/ECCV_2014/html/8691/86910092.htm) (2014 ECCV).   
 The key points:
 1. Introduce a large scale RGBD image dataset to address the problem of data deficiency. 
 2. Provide a simple fusion framework that combines existing RGB-produced saliency with new depth-produced saliency. 
