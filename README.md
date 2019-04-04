@@ -5,9 +5,9 @@ Make some brief summaries on the reading of related papers (saliency detection a
 # Table of Contents
 
 * [Papers](#papers)
-  * [Salient Object Detection](##Salient Object Detection)
+  * [Salient Object Detection](#Salient Object Detection)
     * [A Survey on Transfer Learning]
-  * [Relation Extraction](##Relation Extraction)
+  * [Relation Extraction](#Relation Extraction)
 
 
 # Papers
