@@ -1,6 +1,6 @@
 # Paper-Reading-Notebook
-针对相关领域（saliency detection和relation extraction等）论文的阅读做一些简要总结        
-Make some brief summaries on the reading of related papers (saliency detection and relation extraction, etc.)     
+针对人工智能相关领域（计算机视觉CV以及自然语言处理NLP等）论文的阅读做一些简要总结        
+Make some brief summaries on the reading of related papers (CV and NLP, etc.)     
 
 # Table of Contents
 * Salient Object Detection
@@ -17,7 +17,7 @@ Make some brief summaries on the reading of related papers (saliency detection a
 # Papers
 
 ## Salient Object Detection
-### * [Paper list1](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-) or [2](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Image-01-Salient-Object-Detection.md).
+### * [Paper list1](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-) or [2](https://github.com/ArcherFMY/Paper_Reading_List).
 ### * [RGBD Salient Object Detection: A Benchmark and Algorithms](http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/ECCV_2014/html/8691/86910092.htm) (2014 ECCV).   
 Motivations:
 1. Current studies on RGBD salient object detection are lack of a benchmark dataset accurate depth data and unified evaluation metrics accurate depth data and unified evaluation metrics.
