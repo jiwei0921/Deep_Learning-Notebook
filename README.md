@@ -8,6 +8,7 @@ Make some brief summaries on the reading of related papers (saliency detection a
 * Relation Extraction
 * Face Detection-Summary
 * Object Detection-Summary
+* Transfer Learning-Summary
 * Dataset list
 
 
@@ -42,6 +43,10 @@ Contributions:
 ## Object Detection
 
 ### * [Related paper and code, dataset](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html).
+
+## Transfer Learning
+
+### * [Related paper and code, dataset](https://github.com/artix41/awesome-transfer-learning).
 
 ## Dataset list
 
