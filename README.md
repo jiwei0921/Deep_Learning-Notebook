@@ -7,7 +7,10 @@ Make some brief summaries on the reading of related papers (CV and NLP, etc.)
   * Paper list
   * RGBD Salient Object Detection: A Benchmark and Algorithms
 * Relation Extraction
-  * Deep contextualized word representations
+  * ELMO：Deep contextualized word representations
+  * Universal Language Model Fine-tuning for Text Classification
+  * openAI GPT：Improving Language Understanding by Generative Pre-Training
+  * BERT: Pretraining of Deep Bidirectional Transformers for Language Understanding
 * Face Detection-Summary
 * Object Detection-Summary
 * Transfer Learning-Summary
