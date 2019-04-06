@@ -4,18 +4,20 @@ Make some brief summaries on the reading of related papers (saliency detection a
 
 # Table of Contents
 * Salient Object Detection
+  * Paper list
   * RGBD Salient Object Detection: A Benchmark and Algorithms
 * Relation Extraction
 * Face Detection-Summary
 * Object Detection-Summary
 * Transfer Learning-Summary
+* Video Object Segmentation-Summary
 * Dataset list
 
 
 # Papers
 
 ## Salient Object Detection
-
+### * [Paper list1](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-) or [2](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Image-01-Salient-Object-Detection.md).
 ### * [RGBD Salient Object Detection: A Benchmark and Algorithms](http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/ECCV_2014/html/8691/86910092.htm) (2014 ECCV).   
 Motivations:
 1. Current studies on RGBD salient object detection are lack of a benchmark dataset accurate depth data and unified evaluation metrics accurate depth data and unified evaluation metrics.
@@ -47,6 +49,10 @@ Contributions:
 ## Transfer Learning
 
 ### * [Related paper and code, dataset](https://github.com/artix41/awesome-transfer-learning).
+
+## Video Object Segmentation
+
+### * [Related paper and code, dataset](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Video-02-Video-Object-Segmentation.md).
 
 ## Dataset list
 
