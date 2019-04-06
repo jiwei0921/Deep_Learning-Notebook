@@ -7,6 +7,7 @@ Make some brief summaries on the reading of related papers (CV and NLP, etc.)
   * Paper list
   * RGBD Salient Object Detection: A Benchmark and Algorithms
 * Relation Extraction
+  * Deep contextualized word representations
 * Face Detection-Summary
 * Object Detection-Summary
 * Transfer Learning-Summary
@@ -34,10 +35,12 @@ Contributions:
 ### * [RGBD Salient Object Detection: A Benchmark and Algorithms]
 
 
-
 ## Relation Extraction
 
-### * [RGBD Salient Object Detection: A Benchmark and Algorithms]
+### * [Deep contextualized word representations]
+Motivations:
+1. 
+
 
 ## Face Detection
 
