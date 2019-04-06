@@ -6,6 +6,9 @@ Make some brief summaries on the reading of related papers (saliency detection a
 * Salient Object Detection
   * RGBD Salient Object Detection: A Benchmark and Algorithms
 * Relation Extraction
+* Face Detection-Summary
+* Object Detection-Summary
+* Dataset list
 
 
 # Papers
@@ -32,3 +35,14 @@ Contributions:
 
 ### * [RGBD Salient Object Detection: A Benchmark and Algorithms]
 
+## Face Detection
+
+### * [Related paper and code, dataset](https://github.com/ChanChiChoi/awesome-Face_Recognition).
+
+## Object Detection
+
+### * [Related paper and code, dataset](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html).
+
+## Dataset list
+
+### * [List of the most complete datasets](https://www.datasetlist.com).
