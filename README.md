@@ -11,6 +11,7 @@ Make some brief summaries on the reading of related papers (CV and NLP, etc.)
 * Object Detection-Summary
 * Transfer Learning-Summary
 * Video Object Segmentation-Summary
+* Semantic Segmentation-Summary
 * Dataset list
 
 
@@ -53,6 +54,10 @@ Contributions:
 ## Video Object Segmentation
 
 ### * [Related paper and code, dataset](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Video-02-Video-Object-Segmentation.md).
+
+## Semantic Segmentation
+
+### * [Related paper and code, dataset](https://github.com/mrgloom/awesome-semantic-segmentation).
 
 ## Dataset list
 
