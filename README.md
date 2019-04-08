@@ -16,7 +16,9 @@ Make some brief summaries on the reading of related papers (CV and NLP, etc.)
 * Transfer Learning-Summary
 * Video Object Segmentation-Summary
 * Semantic Segmentation-Summary
-* Dataset list
+* Dataset list 
+* Other authors' paper list
+* self Summary
 
 
 # Papers
@@ -69,6 +71,10 @@ Motivations:
 
 ### * [List of the most complete datasets](https://www.datasetlist.com).
 
-## other authors' paper list
+## Other authors' paper list
 
 ### *[list1](https://github.com/xw-hu/Reading-List).
+
+## Self summary list
+
+### *[BERT](https://www.cnblogs.com/rucwxb/p/10277217.html).
