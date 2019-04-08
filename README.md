@@ -68,3 +68,7 @@ Motivations:
 ## Dataset list
 
 ### * [List of the most complete datasets](https://www.datasetlist.com).
+
+## other authors' paper list
+
+### *[list1](https://github.com/xw-hu/Reading-List).
