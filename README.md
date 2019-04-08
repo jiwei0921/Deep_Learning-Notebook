@@ -77,4 +77,5 @@ Motivations:
 
 ## Self summary list
 
+### *[Attention,GPT,Elmo,BERT](https://blog.csdn.net/weixin_42446330/article/details/86710838).
 ### *[BERT](https://www.cnblogs.com/rucwxb/p/10277217.html).
