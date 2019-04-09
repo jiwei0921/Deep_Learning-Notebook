@@ -55,6 +55,7 @@ Make some brief summaries on the reading of related papers (CV and NLP, etc.)
 
 ## Self summary list
 
+### *[张俊林_知乎-NLP](https://www.zhihu.com/people/zhang-jun-lin-76/posts).
 ### *[Transformer1](https://jalammar.github.io/illustrated-transformer/) and [Transformer2](http://nlp.seas.harvard.edu/2018/04/03/attention.html).[Transformer implement](https://blog.csdn.net/stupid_3/article/details/83184691).
 ### *[Attention,GPT,Elmo,BERT](https://blog.csdn.net/weixin_42446330/article/details/86710838).
 ### *[BERT](https://www.cnblogs.com/rucwxb/p/10277217.html).
