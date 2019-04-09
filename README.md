@@ -77,6 +77,7 @@ Motivations:
 
 ## Self summary list
 
+### *[Transformer1](https://jalammar.github.io/illustrated-transformer/) and [Transformer2](http://nlp.seas.harvard.edu/2018/04/03/attention.html).
 ### *[Attention,GPT,Elmo,BERT](https://blog.csdn.net/weixin_42446330/article/details/86710838).
 ### *[BERT](https://www.cnblogs.com/rucwxb/p/10277217.html).
 ### *[From Word Embedding to Bert-summary](https://zhuanlan.zhihu.com/p/49271699?utm_source=wechat_session&utm_medium=social&from=groupmessage&isappinstalled=0).
