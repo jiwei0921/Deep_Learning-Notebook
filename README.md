@@ -60,3 +60,5 @@ Make some brief summaries on the reading of related papers (CV and NLP, etc.)
 ### *[Attention,GPT,Elmo,BERT](https://blog.csdn.net/weixin_42446330/article/details/86710838).
 ### *[BERT](https://www.cnblogs.com/rucwxb/p/10277217.html).
 ### *[From Word Embedding to Bert-summary](https://zhuanlan.zhihu.com/p/49271699?utm_source=wechat_session&utm_medium=social&from=groupmessage&isappinstalled=0).
+### *[命名实体识别 biLSTM+CRF](https://blog.csdn.net/xxzhix/article/details/81514040).
+
