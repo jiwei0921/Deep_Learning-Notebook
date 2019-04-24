@@ -64,6 +64,9 @@ Make some brief summaries on the reading of related papers (CV and NLP, etc.)
 ### *[BERT](https://www.cnblogs.com/rucwxb/p/10277217.html).
 ### *[From Word Embedding to Bert-summary](https://zhuanlan.zhihu.com/p/49271699?utm_source=wechat_session&utm_medium=social&from=groupmessage&isappinstalled=0).
 ### *[命名实体识别 biLSTM+CRF](https://blog.csdn.net/xxzhix/article/details/81514040).
+### *[32个实用算法](https://mp.weixin.qq.com/s/8Y_1Ky1CBjOpA1PZUTBVEA).
+### *[深度学习超分辨率综述](https://mp.weixin.qq.com/s/G55dxHfMYxWzjz4_8YnUaw).
+### *[立体匹配综述](https://mp.weixin.qq.com/s/cOHAQX12k19eogxfpk95tA).
 
 ## About vital technology
 ### *[PyTorch|提取神经网络中间层特征进行可视化](https://www.jianshu.com/p/2fe73baa09b8?utm_source=oschina-app).   
