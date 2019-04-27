@@ -67,7 +67,7 @@ Make some brief summaries on the reading of related papers (CV and NLP, etc.)
 ### *[32个实用算法](https://mp.weixin.qq.com/s/8Y_1Ky1CBjOpA1PZUTBVEA).
 ### *[深度学习超分辨率综述](https://mp.weixin.qq.com/s/G55dxHfMYxWzjz4_8YnUaw).
 ### *[立体匹配综述](https://mp.weixin.qq.com/s/cOHAQX12k19eogxfpk95tA).
-
+### *[一文看懂自然语言理解(NLU)](https://mp.weixin.qq.com/s/dHZTdN6RHdUpmaCcGfxwBA)
 ## About vital technology
 ### *[PyTorch|提取神经网络中间层特征进行可视化](https://www.jianshu.com/p/2fe73baa09b8?utm_source=oschina-app).   
 ### *[33个神经网络训练技巧](https://mp.weixin.qq.com/s/GPNE2MZt-875nQZYRSF5YQ).     
