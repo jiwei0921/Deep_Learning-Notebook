@@ -70,5 +70,6 @@ Make some brief summaries on the reading of related papers (CV and NLP, etc.)
 ### *[一文看懂自然语言理解(NLU)](https://mp.weixin.qq.com/s/dHZTdN6RHdUpmaCcGfxwBA)
 ## About vital technology
 ### *[PyTorch|提取神经网络中间层特征进行可视化](https://www.jianshu.com/p/2fe73baa09b8?utm_source=oschina-app).   
-### *[33个神经网络训练技巧](https://mp.weixin.qq.com/s/GPNE2MZt-875nQZYRSF5YQ).     
+### *[33个神经网络训练技巧](https://mp.weixin.qq.com/s/GPNE2MZt-875nQZYRSF5YQ).    
+### *[pytorch查看网络中的参数](https://blog.csdn.net/appleml/article/details/81000301).   
 
