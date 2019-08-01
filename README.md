@@ -1,10 +1,10 @@
 # Paper-Reading-Notebook
-针对人工智能相关领域（计算机视觉CV以及自然语言处理NLP等）论文的阅读做一些简要总结        
-Make some brief summaries on the reading of related papers (CV and NLP, etc.)     
+针对人工智能相关领域（计算机视觉CV、自然语言处理NLP以及推荐系统Recsys）论文的阅读做一些简要总结        
+Make some brief summaries on the reading of related papers (CV、 NLP and Recsys, etc.)     
 
 # Table of Contents
 * Salient Object Detection
-* Relation Extraction
+* Recommender System
 * Face Detection-Summary
 * Object Detection-Summary
 * Transfer Learning-Summary
@@ -21,9 +21,9 @@ Make some brief summaries on the reading of related papers (CV and NLP, etc.)
 ### * [Paper list1](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-) or [2](https://github.com/ArcherFMY/Paper_Reading_List).
 
 
-## Relation Extraction
+## Recommender System
 
-### * [None]
+### * [Related paper list](https://github.com/hongleizhang/RSPapers).
 
 ## Face Detection
 
