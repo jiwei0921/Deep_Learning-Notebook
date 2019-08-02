@@ -55,6 +55,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 
 ## Self summary list
 
+### *[十大CNN结构,简要介绍和差别](https://mp.weixin.qq.com/s/_e6H7IDrdbmdmOBjgIHApQ).
 ### *[基于Keras的卷积神经网络（CNN）可视化](https://blog.csdn.net/weiwei9363/article/details/79112872).
 ### *[张俊林_知乎-NLP](https://www.zhihu.com/people/zhang-jun-lin-76/posts).
 ### *[Transformer1](https://jalammar.github.io/illustrated-transformer/) and [Transformer2](http://nlp.seas.harvard.edu/2018/04/03/attention.html).[and Transformer pytorch implement](https://blog.csdn.net/stupid_3/article/details/83184691).
