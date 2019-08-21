@@ -24,6 +24,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 ## Recommender System
 
 ### * [Related paper list](https://github.com/hongleizhang/RSPapers).
+### * [Basis paper and code](https://github.com/princewen/tensorflow_practice)
 
 ## Face Detection
 
