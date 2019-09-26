@@ -57,6 +57,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 ## Self summary list
 
 ### *[十大CNN结构,简要介绍和差别](https://mp.weixin.qq.com/s/_e6H7IDrdbmdmOBjgIHApQ).
+### *[讲述FishNet,并做了个很好的task级任务的梳理](https://blog.csdn.net/P_LarT/article/details/89917706)
 ### *[目标检测常用网络简要梳理](https://mp.weixin.qq.com/s/ObHn-VAXtuaPuUi1XDXr6A).
 ### *[基于Keras的卷积神经网络（CNN）可视化](https://blog.csdn.net/weiwei9363/article/details/79112872).
 ### *[张俊林_知乎-NLP](https://www.zhihu.com/people/zhang-jun-lin-76/posts).
