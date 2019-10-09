@@ -5,6 +5,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 # Table of Contents
 * Salient Object Detection
 * Recommender System
+* Human skeleton estimation
 * Face Detection-Summary
 * Object Detection-Summary
 * Transfer Learning-Summary
