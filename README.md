@@ -62,6 +62,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 ## Self summary list
 
 ### *[“卷积”中‘卷’和‘积分’的意义是什么](https://mp.weixin.qq.com/s/PtPepSd2qtCLcVWWaLGwhQ).
+### *[DL中的基本概念笔记](https://mp.weixin.qq.com/s/bHYJamDLDMCGvZ6K0J9GZQ).
 ### *[神经网络架构搜索的简述理解](https://www.leiphone.com/news/201907/ftBwyOKJUNrx2Cke.html).   
 ### *[DL中各种Models的一个代码梳理和总结](https://github.com/PaddlePaddle/models).
 ### *[显著性物体检测领域中评估方法的解释-MAE](https://blog.csdn.net/StupidAutofan/article/details/79556087),[PR-curves](https://blog.csdn.net/StupidAutofan/article/details/79583531),[F-measure](https://blog.csdn.net/StupidAutofan/article/details/79583450)
