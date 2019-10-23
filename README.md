@@ -21,6 +21,8 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 ## Salient Object Detection
 ### * [Paper list1](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-) or [2](https://github.com/ArcherFMY/Paper_Reading_List).
 
+## Person ReID
+### * [视频行人重识别2019各顶会顶刊文章](https://mp.weixin.qq.com/s/48RSm8PmYGzbn4JzgaL3EQ)
 
 ## Recommender System
 
