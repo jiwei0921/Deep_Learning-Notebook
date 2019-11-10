@@ -52,6 +52,10 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 ## Semantic Segmentation
 
 ### * [Related paper and code, dataset](https://github.com/mrgloom/awesome-semantic-segmentation).
+ 
+## Reinforcment Learning     
+
+### * [Paper List](https://mp.weixin.qq.com/s/B3D5JxyRiUOaV0y8s7_w0g)    
 
 ## Dataset list
 
