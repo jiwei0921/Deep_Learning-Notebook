@@ -15,6 +15,8 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 * Other authors' paper list
 * self Summary
 
+# Great Courses
+### * [孙剑-中文深度学习课程](https://mp.weixin.qq.com/s/bQUzsFybBpnPfINp8ikRgw). 
 
 # Papers
 
