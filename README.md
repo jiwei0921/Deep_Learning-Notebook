@@ -9,7 +9,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 * Face Detection-Summary
 * Object Detection-Summary
 * Transfer Learning-Summary
-* Video Object Segmentation-Summary
+* Video Object Segmentation-Summary 
 * Semantic Segmentation-Summary
 * Dataset list 
 * Other authors' paper list
@@ -80,7 +80,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 ### *[目标检测常用网络简要梳理](https://mp.weixin.qq.com/s/ObHn-VAXtuaPuUi1XDXr6A).
 ### *[基于Keras的卷积神经网络（CNN）可视化](https://blog.csdn.net/weiwei9363/article/details/79112872).
 ### *[张俊林_知乎-NLP](https://www.zhihu.com/people/zhang-jun-lin-76/posts).
-### *[Transformer1](https://jalammar.github.io/illustrated-transformer/) and [Transformer2](http://nlp.seas.harvard.edu/2018/04/03/attention.html).[and Transformer pytorch implement](https://blog.csdn.net/stupid_3/article/details/83184691).
+### *[Transformer1](https://jalammar.github.io/illustrated-transformer/) and [Transformer2](http://nlp.seas.harvard.edu/2018/04/03/attention.html).[and Transformer pytorch implement](https://blog.csdn.net/stupid_3/article/details/83184691).  
 ### *[可视化Transformer](https://zhuanlan.zhihu.com/p/54356280).
 ### *[自然语言处理三大特征提取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941).
 ### *[Attention,GPT,Elmo,BERT](https://blog.csdn.net/weixin_42446330/article/details/86710838).
