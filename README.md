@@ -97,4 +97,5 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 ### *[33个神经网络训练技巧](https://mp.weixin.qq.com/s/GPNE2MZt-875nQZYRSF5YQ).    
 ### *[pytorch查看网络中的参数](https://blog.csdn.net/appleml/article/details/81000301).   
 ### *[pytorch trick超有用](https://mp.weixin.qq.com/s/o-V07uM5NBn-0kQOQYrImw).      
+### *[计算机视觉领域如何从别人的论文里获取自己的idea？](https://mp.weixin.qq.com/s/vnyra_xcg9D6NUNVpKtP0Q).
 
