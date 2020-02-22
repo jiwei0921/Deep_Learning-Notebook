@@ -41,6 +41,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 
 ## Object Detection
 
+### * [Complete paper list](https://github.com/hoya012/deep_learning_object_detection)
 ### * [Related paper and code, dataset](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html).
 
 ## Transfer Learning
