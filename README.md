@@ -2,101 +2,77 @@
 针对人工智能相关领域（计算机视觉CV、自然语言处理NLP以及推荐系统Recsys）论文的阅读做一些简要总结        
 Make some brief summaries on the reading of related papers (CV、 NLP and Recsys, etc.)     
 
-# Table of Contents
-* Salient Object Detection
-* Recommender System
-* Human skeleton estimation
-* Face Detection-Summary
-* Object Detection-Summary
-* Transfer Learning-Summary
-* Video Object Segmentation-Summary 
-* Semantic Segmentation-Summary
-* Dataset list 
-* Other authors' paper list
-* self Summary
 
-# Great Courses
-### * [孙剑-中文深度学习课程](https://mp.weixin.qq.com/s/bQUzsFybBpnPfINp8ikRgw). 
+# Related useful links
 
-# Papers
+## Artificial Intelligence
+**No.** | **Name** | **link** 
+:-: | :-: | :-  
+01 | **Salient Object Detection** | [Paper list1](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-) & [list2](https://github.com/ArcherFMY/Paper_Reading_List) 
+02 | **Person ReID** | [视频行人重识别2019各顶会顶刊文章](https://mp.weixin.qq.com/s/48RSm8PmYGzbn4JzgaL3EQ)  
+03 | **Recommender System** | [Related paper list](https://github.com/hongleizhang/RSPapers) & [Basis paper and code](https://github.com/princewen/tensorflow_practice)  
+04 | **Human skeleton estimation** | [视觉俞刚，简要梳理](https://mp.weixin.qq.com/s/VWSyT96BWHFQaqVDR-GALg)   
+05 | **Face Detection** | [Related paper and code, dataset](https://github.com/ChanChiChoi/awesome-Face_Recognition)   
+06 | **Object Detection** | [Complete paper list](https://github.com/hoya012/deep_learning_object_detection) & [Related paper and code, dataset](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)   
+07 | **Transfer Learning** | [Related paper and code, dataset](https://github.com/artix41/awesome-transfer-learning)    
+08 | **Video Object Segmentation** | [Related paper and code, dataset](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Video-02-Video-Object-Segmentation.md)   
+09 | **Semantic Segmentation** | [Paper List](https://mp.weixin.qq.com/s/B3D5JxyRiUOaV0y8s7_w0g)   
+10 | **Instance Segmentation** | [实例分割最新最全面综述：从Mask R-CNN到BlendMask](https://mp.weixin.qq.com/s/clRKOIzj1lDSZs-XHhfHmQ)
+11 | **Super-resolution** | [深度学习超分辨率综述](https://mp.weixin.qq.com/s/G55dxHfMYxWzjz4_8YnUaw)  
 
-## Salient Object Detection
-### * [Paper list1](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-) or [2](https://github.com/ArcherFMY/Paper_Reading_List). 
+## Related useful links
+**No.** | **Name** | **link** 
+:-: | :-: | :-  
+01 | **Notes** | [“卷积”中‘卷’和‘积分’的意义是什么](https://mp.weixin.qq.com/s/PtPepSd2qtCLcVWWaLGwhQ).
+02 | **Notes** | [DL中的基本概念笔记](https://mp.weixin.qq.com/s/bHYJamDLDMCGvZ6K0J9GZQ).
+03 | **Notes** | [神经网络架构搜索的简述理解](https://www.leiphone.com/news/201907/ftBwyOKJUNrx2Cke.html).   
+04 | **Notes** | [DL中各种Models的一个代码梳理和总结](https://github.com/PaddlePaddle/models).
+05 | **Notes** | [显著性物体检测领域中评估方法的解释-MAE](https://blog.csdn.net/StupidAutofan/article/details/79556087),[PR-curves](https://blog.csdn.net/StupidAutofan/article/details/79583531),[F-measure](https://blog.csdn.net/StupidAutofan/article/details/79583450)
+06 | **Notes** | [十大CNN结构,简要介绍和差别](https://mp.weixin.qq.com/s/_e6H7IDrdbmdmOBjgIHApQ).
+07 | **Notes** | [10大CNN核心模型的解析和代码](https://mp.weixin.qq.com/s/bcYwIW6VpjG0IUf5tSUuMg).
+08 | **Notes** | [讲述FishNet,并做了个很好的task级任务的梳理](https://blog.csdn.net/P_LarT/article/details/89917706)
+09 | **Notes** | [目标检测常用网络简要梳理](https://mp.weixin.qq.com/s/ObHn-VAXtuaPuUi1XDXr6A).
+10 | **Notes** | [基于Keras的卷积神经网络（CNN）可视化](https://blog.csdn.net/weiwei9363/article/details/79112872).
+11 | **Notes** | [张俊林_知乎-NLP](https://www.zhihu.com/people/zhang-jun-lin-76/posts).
+12 | **Notes** | [Transformer1](https://jalammar.github.io/illustrated-transformer/) and [Transformer2](http://nlp.seas.harvard.edu/2018/04/03/attention.html).[and Transformer pytorch implement](https://blog.csdn.net/stupid_3/article/details/83184691).  
+13 | **Notes** | [可视化Transformer](https://zhuanlan.zhihu.com/p/54356280).
+14 | **Notes** | [自然语言处理三大特征提取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941).
+15 | **Notes** | [Attention,GPT,Elmo,BERT](https://blog.csdn.net/weixin_42446330/article/details/86710838).
+16 | **Notes** | [BERT](https://www.cnblogs.com/rucwxb/p/10277217.html).
+17 | **Notes** | [From Word Embedding to Bert-summary](https://zhuanlan.zhihu.com/p/49271699?utm_source=wechat_session&utm_medium=social&from=groupmessage&isappinstalled=0).
+18 | **Notes** | [命名实体识别 biLSTM+CRF](https://blog.csdn.net/xxzhix/article/details/81514040).
+19 | **Notes** | [立体匹配综述](https://mp.weixin.qq.com/s/cOHAQX12k19eogxfpk95tA).
+20 | **Notes** | [一文看懂自然语言理解(NLU)](https://mp.weixin.qq.com/s/dHZTdN6RHdUpmaCcGfxwBA).
+21 | **Notes** | [32个实用算法](https://mp.weixin.qq.com/s/8Y_1Ky1CBjOpA1PZUTBVEA).
+22 | **Notes** | [计算机视觉领域如何从别人的论文里获取自己的idea？](https://mp.weixin.qq.com/s/vnyra_xcg9D6NUNVpKtP0Q).
+23 | **Notes** | [立体匹配综述](https://mp.weixin.qq.com/s/cOHAQX12k19eogxfpk95tA).
+24 | **Code** | [33个神经网络训练技巧](https://mp.weixin.qq.com/s/GPNE2MZt-875nQZYRSF5YQ).    
+25 | **Code** | [pytorch查看网络中的参数](https://blog.csdn.net/appleml/article/details/81000301).   
+26 | **Code** | [pytorch trick超有用](https://mp.weixin.qq.com/s/o-V07uM5NBn-0kQOQYrImw).   
+27 | **Code** | [PyTorch|提取神经网络中间层特征进行可视化](https://www.jianshu.com/p/2fe73baa09b8?utm_source=oschina-app).   
+28 | **Code** | [感受野计算](https://cloud.tencent.com/developer/article/1179175)and[here](https://blog.csdn.net/Kerrwy/article/details/82430530).
 
-## Person ReID
-### * [视频行人重识别2019各顶会顶刊文章](https://mp.weixin.qq.com/s/48RSm8PmYGzbn4JzgaL3EQ)
 
-## Recommender System
+## Great Courses
 
-### * [Related paper list](https://github.com/hongleizhang/RSPapers).
-### * [Basis paper and code](https://github.com/princewen/tensorflow_practice)
+**No.** | **Name** | **link** 
+:-: | :-: | :-  
+01 | **孙剑-中文深度学习课程** | [Video Link](https://mp.weixin.qq.com/s/bQUzsFybBpnPfINp8ikRgw) 
 
-## Human skeleton estimation
-
-### * [视觉俞刚，简要梳理](https://mp.weixin.qq.com/s/VWSyT96BWHFQaqVDR-GALg).
-
-## Face Detection
-
-### * [Related paper and code, dataset](https://github.com/ChanChiChoi/awesome-Face_Recognition).
-
-## Object Detection
-
-### * [Complete paper list](https://github.com/hoya012/deep_learning_object_detection)
-### * [Related paper and code, dataset](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html).
-
-## Transfer Learning
-
-### * [Related paper and code, dataset](https://github.com/artix41/awesome-transfer-learning).
-
-## Video Object Segmentation
-
-### * [Related paper and code, dataset](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Video-02-Video-Object-Segmentation.md).
-
-## Semantic Segmentation
-
-### * [Related paper and code, dataset](https://github.com/mrgloom/awesome-semantic-segmentation).
- 
-## Reinforcment Learning     
-
-### * [Paper List](https://mp.weixin.qq.com/s/B3D5JxyRiUOaV0y8s7_w0g)    
 
 ## Dataset list
 
-### * [List of the most complete datasets](https://www.datasetlist.com).
+**No.** | **Name** | **link** 
+:-: | :-: | :-  
+01 | **List of the most complete datasets** | [website link](https://www.datasetlist.com) 
 
 ## Other authors' paper list
 
-### *[list1](https://github.com/xw-hu/Reading-List).
+**No.** | **link** 
+:-: | :-:  
+01 | [github: xw-hu](https://github.com/xw-hu/Reading-List) 
+02 | [张俊林_知乎-NLP](https://www.zhihu.com/people/zhang-jun-lin-76/posts)
 
-## Self summary list
 
-### *[“卷积”中‘卷’和‘积分’的意义是什么](https://mp.weixin.qq.com/s/PtPepSd2qtCLcVWWaLGwhQ).
-### *[DL中的基本概念笔记](https://mp.weixin.qq.com/s/bHYJamDLDMCGvZ6K0J9GZQ).
-### *[神经网络架构搜索的简述理解](https://www.leiphone.com/news/201907/ftBwyOKJUNrx2Cke.html).   
-### *[DL中各种Models的一个代码梳理和总结](https://github.com/PaddlePaddle/models).
-### *[显著性物体检测领域中评估方法的解释-MAE](https://blog.csdn.net/StupidAutofan/article/details/79556087),[PR-curves](https://blog.csdn.net/StupidAutofan/article/details/79583531),[F-measure](https://blog.csdn.net/StupidAutofan/article/details/79583450)
-### *[十大CNN结构,简要介绍和差别](https://mp.weixin.qq.com/s/_e6H7IDrdbmdmOBjgIHApQ).
-### *[10大CNN核心模型的解析和代码](https://mp.weixin.qq.com/s/bcYwIW6VpjG0IUf5tSUuMg).
-### *[讲述FishNet,并做了个很好的task级任务的梳理](https://blog.csdn.net/P_LarT/article/details/89917706)
-### *[目标检测常用网络简要梳理](https://mp.weixin.qq.com/s/ObHn-VAXtuaPuUi1XDXr6A).
-### *[基于Keras的卷积神经网络（CNN）可视化](https://blog.csdn.net/weiwei9363/article/details/79112872).
-### *[张俊林_知乎-NLP](https://www.zhihu.com/people/zhang-jun-lin-76/posts).
-### *[Transformer1](https://jalammar.github.io/illustrated-transformer/) and [Transformer2](http://nlp.seas.harvard.edu/2018/04/03/attention.html).[and Transformer pytorch implement](https://blog.csdn.net/stupid_3/article/details/83184691).  
-### *[可视化Transformer](https://zhuanlan.zhihu.com/p/54356280).
-### *[自然语言处理三大特征提取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941).
-### *[Attention,GPT,Elmo,BERT](https://blog.csdn.net/weixin_42446330/article/details/86710838).
-### *[BERT](https://www.cnblogs.com/rucwxb/p/10277217.html).
-### *[From Word Embedding to Bert-summary](https://zhuanlan.zhihu.com/p/49271699?utm_source=wechat_session&utm_medium=social&from=groupmessage&isappinstalled=0).
-### *[命名实体识别 biLSTM+CRF](https://blog.csdn.net/xxzhix/article/details/81514040).
-### *[32个实用算法](https://mp.weixin.qq.com/s/8Y_1Ky1CBjOpA1PZUTBVEA).
-### *[深度学习超分辨率综述](https://mp.weixin.qq.com/s/G55dxHfMYxWzjz4_8YnUaw).
-### *[立体匹配综述](https://mp.weixin.qq.com/s/cOHAQX12k19eogxfpk95tA).
-### *[一文看懂自然语言理解(NLU)](https://mp.weixin.qq.com/s/dHZTdN6RHdUpmaCcGfxwBA).
-### *[感受野计算](https://cloud.tencent.com/developer/article/1179175)and[here](https://blog.csdn.net/Kerrwy/article/details/82430530).
-## About vital technology
-### *[PyTorch|提取神经网络中间层特征进行可视化](https://www.jianshu.com/p/2fe73baa09b8?utm_source=oschina-app).   
-### *[33个神经网络训练技巧](https://mp.weixin.qq.com/s/GPNE2MZt-875nQZYRSF5YQ).    
-### *[pytorch查看网络中的参数](https://blog.csdn.net/appleml/article/details/81000301).   
-### *[pytorch trick超有用](https://mp.weixin.qq.com/s/o-V07uM5NBn-0kQOQYrImw).      
-### *[计算机视觉领域如何从别人的论文里获取自己的idea？](https://mp.weixin.qq.com/s/vnyra_xcg9D6NUNVpKtP0Q).
+
 
