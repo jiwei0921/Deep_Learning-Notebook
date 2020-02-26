@@ -21,9 +21,11 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 11 | **Super-resolution** | [深度学习超分辨率综述](https://mp.weixin.qq.com/s/G55dxHfMYxWzjz4_8YnUaw)  
 
 ## Related useful links
-* Notes
-**No.** | **Name** | **link** 
-:-: | :-: | :-  
+
++ Notes    
+
+**No.** | **Name** | **link**   
+:-: | :-: | :-   
 01 | **Notes** | [“卷积”中‘卷’和‘积分’的意义是什么](https://mp.weixin.qq.com/s/PtPepSd2qtCLcVWWaLGwhQ).
 02 | **Notes** | [DL中的基本概念笔记](https://mp.weixin.qq.com/s/bHYJamDLDMCGvZ6K0J9GZQ).
 03 | **Notes** | [神经网络架构搜索的简述理解](https://www.leiphone.com/news/201907/ftBwyOKJUNrx2Cke.html).   
@@ -49,9 +51,10 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 23 | **Notes** | [立体匹配综述](https://mp.weixin.qq.com/s/cOHAQX12k19eogxfpk95tA).
 24 | **Notes** | [一个经验性探索：CNN是靠什么线索学习到深度信息的？](https://mp.weixin.qq.com/s/msKpZb2TLL2BLqqoPwrGrg)
 
-* Coding
-**No.** | **Name** | **link** 
-:-: | :-: | :-  
++ Coding   
+
+**No.** | **Name** | **link**   
+:-: | :-: | :-    
 01 | **Code** | [33个神经网络训练技巧](https://mp.weixin.qq.com/s/GPNE2MZt-875nQZYRSF5YQ).    
 02 | **Code** | [pytorch查看网络中的参数](https://blog.csdn.net/appleml/article/details/81000301).   
 03 | **Code** | [pytorch trick超有用](https://mp.weixin.qq.com/s/o-V07uM5NBn-0kQOQYrImw).   
