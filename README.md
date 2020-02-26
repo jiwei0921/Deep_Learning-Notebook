@@ -21,6 +21,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 11 | **Super-resolution** | [深度学习超分辨率综述](https://mp.weixin.qq.com/s/G55dxHfMYxWzjz4_8YnUaw)  
 
 ## Related useful links
+* Notes
 **No.** | **Name** | **link** 
 :-: | :-: | :-  
 01 | **Notes** | [“卷积”中‘卷’和‘积分’的意义是什么](https://mp.weixin.qq.com/s/PtPepSd2qtCLcVWWaLGwhQ).
@@ -46,11 +47,16 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 21 | **Notes** | [32个实用算法](https://mp.weixin.qq.com/s/8Y_1Ky1CBjOpA1PZUTBVEA).
 22 | **Notes** | [计算机视觉领域如何从别人的论文里获取自己的idea？](https://mp.weixin.qq.com/s/vnyra_xcg9D6NUNVpKtP0Q).
 23 | **Notes** | [立体匹配综述](https://mp.weixin.qq.com/s/cOHAQX12k19eogxfpk95tA).
-24 | **Code** | [33个神经网络训练技巧](https://mp.weixin.qq.com/s/GPNE2MZt-875nQZYRSF5YQ).    
-25 | **Code** | [pytorch查看网络中的参数](https://blog.csdn.net/appleml/article/details/81000301).   
-26 | **Code** | [pytorch trick超有用](https://mp.weixin.qq.com/s/o-V07uM5NBn-0kQOQYrImw).   
-27 | **Code** | [PyTorch-提取神经网络中间层特征进行可视化](https://www.jianshu.com/p/2fe73baa09b8?utm_source=oschina-app).   
-28 | **Code** | [感受野计算](https://cloud.tencent.com/developer/article/1179175)and[here](https://blog.csdn.net/Kerrwy/article/details/82430530).
+24 | **Notes** | [一个经验性探索：CNN是靠什么线索学习到深度信息的？](https://mp.weixin.qq.com/s/msKpZb2TLL2BLqqoPwrGrg)
+
+* Coding
+**No.** | **Name** | **link** 
+:-: | :-: | :-  
+01 | **Code** | [33个神经网络训练技巧](https://mp.weixin.qq.com/s/GPNE2MZt-875nQZYRSF5YQ).    
+02 | **Code** | [pytorch查看网络中的参数](https://blog.csdn.net/appleml/article/details/81000301).   
+03 | **Code** | [pytorch trick超有用](https://mp.weixin.qq.com/s/o-V07uM5NBn-0kQOQYrImw).   
+04 | **Code** | [PyTorch-提取神经网络中间层特征进行可视化](https://www.jianshu.com/p/2fe73baa09b8?utm_source=oschina-app).   
+05 | **Code** | [感受野计算](https://cloud.tencent.com/developer/article/1179175)and[here](https://blog.csdn.net/Kerrwy/article/details/82430530).
 
 
 ## Great Courses
