@@ -19,6 +19,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 09 | **Semantic Segmentation** | [Paper List](https://mp.weixin.qq.com/s/B3D5JxyRiUOaV0y8s7_w0g)   
 10 | **Instance Segmentation** | [实例分割最新最全面综述：从Mask R-CNN到BlendMask](https://mp.weixin.qq.com/s/clRKOIzj1lDSZs-XHhfHmQ)
 11 | **Super-resolution** | [深度学习超分辨率综述](https://mp.weixin.qq.com/s/G55dxHfMYxWzjz4_8YnUaw)  
+12 | **Pose estimation** | [基于深度学习目标姿态估计的论文一览（2017-2020）](https://mp.weixin.qq.com/s/756TeGF6fWY_rFwuHKp1Dw)  
 
 ## Related useful links
 
