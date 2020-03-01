@@ -20,6 +20,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 10 | **Instance Segmentation** | [实例分割最新最全面综述：从Mask R-CNN到BlendMask](https://mp.weixin.qq.com/s/clRKOIzj1lDSZs-XHhfHmQ)
 11 | **Super-resolution** | [深度学习超分辨率综述](https://mp.weixin.qq.com/s/G55dxHfMYxWzjz4_8YnUaw)  
 12 | **Pose estimation** | [基于深度学习目标姿态估计的论文一览（2017-2020）](https://mp.weixin.qq.com/s/756TeGF6fWY_rFwuHKp1Dw)  
+13 | **Graph Neural Network** | [图神经网络GNN2019-2020顶会论文列表](https://mp.weixin.qq.com/s/8GzrzSDj1txdISRgvFM_aQ)  
 
 ## Related useful links
 
