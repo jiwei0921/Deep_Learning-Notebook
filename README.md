@@ -21,7 +21,8 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 11 | **Super-resolution** | [深度学习超分辨率综述](https://mp.weixin.qq.com/s/G55dxHfMYxWzjz4_8YnUaw)  
 12 | **Pose estimation** | [基于深度学习目标姿态估计的论文一览（2017-2020）](https://mp.weixin.qq.com/s/756TeGF6fWY_rFwuHKp1Dw)  
 13 | **Graph Neural Network** | [图神经网络GNN2019-2020顶会论文列表](https://mp.weixin.qq.com/s/8GzrzSDj1txdISRgvFM_aQ)  
-13 | **self-,semi & Un- supervision** | [图像分类最新技术综述论文: 21种半监督、自监督和无监督学习方法](https://mp.weixin.qq.com/s/tJaNpW7TyUowdn9JRBVnJQ)  
+14 | **self-,semi & Un- supervision** | [图像分类最新技术综述论文: 21种半监督、自监督和无监督学习方法](https://mp.weixin.qq.com/s/tJaNpW7TyUowdn9JRBVnJQ)  
+15 | **Generative Adversarial Networks** | [史上最全GAN综述2020版：算法、理论及应用](https://mp.weixin.qq.com/s/1oAcoxfno1m9tIHGGDt7dA)  
 
 ## Related useful links
 
