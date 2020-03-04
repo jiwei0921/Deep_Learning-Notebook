@@ -9,7 +9,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 **No.** | **Name** | **link** 
 :-: | :-: | :-  
 01 | **Salient Object Detection** | [Paper list1](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-) & [list2](https://github.com/ArcherFMY/Paper_Reading_List) 
-02 | **Person ReID** | [视频行人重识别2019各顶会顶刊文章](https://mp.weixin.qq.com/s/48RSm8PmYGzbn4JzgaL3EQ)  
+02 | **Person ReID** | [视频行人重识别2019各顶会顶刊文章](https://mp.weixin.qq.com/s/48RSm8PmYGzbn4JzgaL3EQ)   
 03 | **Recommender System** | [Related paper list](https://github.com/hongleizhang/RSPapers) & [Basis paper and code](https://github.com/princewen/tensorflow_practice)  
 04 | **Human skeleton estimation** | [视觉俞刚，简要梳理](https://mp.weixin.qq.com/s/VWSyT96BWHFQaqVDR-GALg)   
 05 | **Face Detection** | [Related paper and code, dataset](https://github.com/ChanChiChoi/awesome-Face_Recognition)   
