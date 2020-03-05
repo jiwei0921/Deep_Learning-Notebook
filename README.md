@@ -23,6 +23,8 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 13 | **Graph Neural Network** | [图神经网络GNN2019-2020顶会论文列表](https://mp.weixin.qq.com/s/8GzrzSDj1txdISRgvFM_aQ)  
 14 | **self-,semi & Un- supervision** | [图像分类最新技术综述论文: 21种半监督、自监督和无监督学习方法](https://mp.weixin.qq.com/s/tJaNpW7TyUowdn9JRBVnJQ)  
 15 | **Generative Adversarial Networks** | [史上最全GAN综述2020版：算法、理论及应用](https://mp.weixin.qq.com/s/1oAcoxfno1m9tIHGGDt7dA)  
+16 | **Stereo Matching** | [双目深度估计中的自监督学习概览](https://mp.weixin.qq.com/s/I75Y_j5M4gI-muEaD1VTYQ)  
+
 
 ## Related useful links
 
