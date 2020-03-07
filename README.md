@@ -83,6 +83,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 **No.** | **Name** | **link** 
 :-: | :-: | :-  
 01 | **List of the most complete datasets** | [website link](https://www.datasetlist.com) 
+02 | **人脸识别数据集汇总** | [website link](https://mp.weixin.qq.com/s/S4pVjQEutDJHitOnh55x0A) 
 
 ## Other authors' paper list
 
