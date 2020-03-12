@@ -1,7 +1,7 @@
 # Paper-Reading-Notebook
 针对人工智能相关领域（计算机视觉CV、自然语言处理NLP以及推荐系统Recsys）论文的阅读做一些简要总结        
 Make some brief summaries on the reading of related papers (CV、 NLP and Recsys, etc.)     
-
+ 
  
 # Related useful links
 
@@ -46,7 +46,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 10 | **Notes** | [基于Keras的卷积神经网络（CNN）可视化](https://blog.csdn.net/weiwei9363/article/details/79112872).
 11 | **Notes** | [张俊林_知乎-NLP](https://www.zhihu.com/people/zhang-jun-lin-76/posts).
 12 | **Notes** | [Transformer1](https://jalammar.github.io/illustrated-transformer/) and [Transformer2](http://nlp.seas.harvard.edu/2018/04/03/attention.html).[and Transformer pytorch implement](https://blog.csdn.net/stupid_3/article/details/83184691).  
-13 | **Notes** | [可视化Transformer](https://zhuanlan.zhihu.com/p/54356280).
+13 | **Notes** | [可视化Transformer](https://zhuanlan.zhihu.com/p/54356280). 
 14 | **Notes** | [自然语言处理三大特征提取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941).
 15 | **Notes** | [Attention,GPT,Elmo,BERT](https://blog.csdn.net/weixin_42446330/article/details/86710838).
 16 | **Notes** | [BERT](https://www.cnblogs.com/rucwxb/p/10277217.html).
