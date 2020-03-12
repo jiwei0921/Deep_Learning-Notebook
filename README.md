@@ -58,7 +58,8 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 22 | **Notes** | [计算机视觉领域如何从别人的论文里获取自己的idea？](https://mp.weixin.qq.com/s/vnyra_xcg9D6NUNVpKtP0Q).
 23 | **Notes** | [立体匹配综述](https://mp.weixin.qq.com/s/cOHAQX12k19eogxfpk95tA).
 24 | **Notes** | [一个经验性探索：CNN是靠什么线索学习到深度信息的？](https://mp.weixin.qq.com/s/msKpZb2TLL2BLqqoPwrGrg)
-25 | **Notes** | [目标检测和感受野的总结和想法](https://mp.weixin.qq.com/s/-FXkLydr96ZTeJZomD2jjg)
+25 | **Notes** | [目标检测和感受野的总结和想法](https://mp.weixin.qq.com/s/-FXkLydr96ZTeJZomD2jjg)  
+26 | **Notes** | [GAN 和 VAE 的本质区别是什么？](https://www.zhihu.com/question/317623081/answer/1064403866)
 
 + Coding   
 
