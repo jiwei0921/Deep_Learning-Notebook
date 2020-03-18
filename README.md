@@ -61,6 +61,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 25 | **Notes** | [目标检测和感受野的总结和想法](https://mp.weixin.qq.com/s/-FXkLydr96ZTeJZomD2jjg)  
 26 | **Notes** | [GAN 和 VAE 的本质区别是什么？](https://www.zhihu.com/question/317623081/answer/1064403866) 
 27 | **Notes** | [语义SLAM近五年发展及研究趋势](https://mp.weixin.qq.com/s/F-BulF8Xg0fq2wVMUHj6mA) & [SLAM面试问题大全](https://mp.weixin.qq.com/s/m8ZM2MCEETFpqhIru4ESBQ)
+28 | **Notes** | [谈谈CNN中的位置和尺度问题](https://zhuanlan.zhihu.com/p/113443895)
 
 + Coding    
 
