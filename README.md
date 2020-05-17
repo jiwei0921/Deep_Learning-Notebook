@@ -75,6 +75,11 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 04 | **Code** | [PyTorch-提取神经网络中间层特征进行可视化](https://www.jianshu.com/p/2fe73baa09b8?utm_source=oschina-app).   
 05 | **Code** | [感受野计算](https://cloud.tencent.com/developer/article/1179175)and[here](https://blog.csdn.net/Kerrwy/article/details/82430530).
 
+## Writing skills
+
+**No.** | **Name** | **link** 
+:-: | :-: | :-  
+01 | **审稿、写作、注意完整流程** | [北大 施柏鑫](https://mp.weixin.qq.com/s/xB0l3hsFDES3RtBtOb5MPg) 
 
 ## Great Courses
 
