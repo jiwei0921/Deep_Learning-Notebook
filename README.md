@@ -18,7 +18,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 **06+** | **Object Detection** | 20年目标检测综述 [章节1](https://mp.weixin.qq.com/s/pm0Sw_8pfmKLZrvJJDUncw),[章节2](https://mp.weixin.qq.com/s/GtjhDuWZTpRoWAYG4bkswA),[章节2+](https://mp.weixin.qq.com/s/C9DX1d8G8vths1uBPZpqng),[章节2++](https://mp.weixin.qq.com/s/TeqtaDA2-W6otUDN8O-Avg),[章节3](https://mp.weixin.qq.com/s/yd9sZ2Gj_HE63XrYWfnOZQ)  
 07 | **Transfer Learning** | [Related paper and code, dataset](https://github.com/artix41/awesome-transfer-learning)    
 08 | **Video Object Segmentation** | [Related paper and code, dataset](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Video-02-Video-Object-Segmentation.md)   
-09 | **Semantic Segmentation** | [Paper List](https://mp.weixin.qq.com/s/B3D5JxyRiUOaV0y8s7_w0g)   
+09 | **Semantic Segmentation** | [Paper List](https://mp.weixin.qq.com/s/B3D5JxyRiUOaV0y8s7_w0g);[语义分割该如何走下去？](https://mp.weixin.qq.com/s/v-iFzmL1PAFkm1xRU8lUQg)   
 10 | **Instance Segmentation** | [实例分割最新最全面综述：从Mask R-CNN到BlendMask](https://mp.weixin.qq.com/s/clRKOIzj1lDSZs-XHhfHmQ),[单阶段实例分割（Single Shot Instance Segmentation）进展综述](https://mp.weixin.qq.com/s/jz0x-0bCG_avCb3FcQk4aQ)
 11 | **Super-resolution** | [深度学习超分辨率综述](https://mp.weixin.qq.com/s/G55dxHfMYxWzjz4_8YnUaw)  
 12 | **Pose estimation** | [基于深度学习目标姿态估计的论文一览（2017-2020）](https://mp.weixin.qq.com/s/756TeGF6fWY_rFwuHKp1Dw)  
