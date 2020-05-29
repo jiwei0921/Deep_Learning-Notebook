@@ -27,6 +27,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 15 | **Generative Adversarial Networks** | [史上最全GAN综述2020版：算法、理论及应用](https://mp.weixin.qq.com/s/1oAcoxfno1m9tIHGGDt7dA)  
 16 | **Stereo Matching** | [双目深度估计中的自监督学习概览](https://mp.weixin.qq.com/s/I75Y_j5M4gI-muEaD1VTYQ)  
 17 | **Self-supervision Learning** | [一文读懂 Self-supervision Learning](https://mp.weixin.qq.com/s/_Ck0cCXeCDhSythqH2aKxQ)  
+18 | **Edge Detection** | [Awesome-Edge-Detection-Papers](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers)  
 
 
 ## Related useful links
