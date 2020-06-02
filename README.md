@@ -28,6 +28,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 16 | **Stereo Matching** | [双目深度估计中的自监督学习概览](https://mp.weixin.qq.com/s/I75Y_j5M4gI-muEaD1VTYQ)  
 17 | **Self-supervision Learning** | [一文读懂 Self-supervision Learning](https://mp.weixin.qq.com/s/_Ck0cCXeCDhSythqH2aKxQ)  
 18 | **Edge Detection** | [Awesome-Edge-Detection-Papers](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers)  
+19 | **Representation Learning** | [什么是Representation Learning？](https://zhuanlan.zhihu.com/p/136554341)  
 
 
 ## Related useful links
