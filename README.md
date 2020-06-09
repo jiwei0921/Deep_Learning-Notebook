@@ -67,6 +67,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 28 | **Notes** | [谈谈CNN中的位置和尺度问题](https://zhuanlan.zhihu.com/p/113443895)
 29 | **Notes** | [CNN可视化，10层-所有细节](https://mp.weixin.qq.com/s/Oxb9ji1Bd8hFWUgsXp6Pew)
 30 | **Notes** | [图像处理初学者应该学习的100个问题-你都学会了吗？](https://zhuanlan.zhihu.com/p/91120861)
+31 | **Notes** | [深入理解计算机视觉中的损失函数](https://mp.weixin.qq.com/s/lw9frtqocqsS-q2KGfzO1Q)
 
 + Coding    
 
