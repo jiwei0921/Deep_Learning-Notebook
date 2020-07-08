@@ -82,6 +82,8 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 05 | **Code** | [感受野计算](https://cloud.tencent.com/developer/article/1179175)and[here](https://blog.csdn.net/Kerrwy/article/details/82430530).
 06 | **Code** | [医学图像分割的loss汇总](https://github.com/JunMa11/SegLoss).
 07 | **Tools** | [如何在科研论文中画出漂亮的插图？](https://mp.weixin.qq.com/s/jg4B5zKGajR3IX85altEMA).
+08 | **Tools** | [Kaggle比赛之后，一份图像分割炼丹的「奇技淫巧」](https://zhuanlan.zhihu.com/p/137966918?utm_source=wechat_session&utm_medium=social&utm_oi=37894152519680).
+09 | **Tools** | [【资源分享总结】卷积神经网络中的即插即用模块](https://mp.weixin.qq.com/s/iDiEqgMqA_EeAVdmfnMaAA).
 
 ## Writing skills
 
