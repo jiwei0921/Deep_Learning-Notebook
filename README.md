@@ -90,6 +90,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 **No.** | **Name** | **link** 
 :-: | :-: | :-  
 01 | **审稿、写作、注意完整流程** | [北大 施柏鑫](https://mp.weixin.qq.com/s/xB0l3hsFDES3RtBtOb5MPg) 
+02 | **如何做一个AI领域审稿人?** | [罗杰波](https://mp.weixin.qq.com/s/Zuey0kbNPQLWR_696fzAhA) 
 
 ## Great Courses
 
