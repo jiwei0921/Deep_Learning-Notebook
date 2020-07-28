@@ -71,6 +71,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 32 | **Notes** | [关于CNN模型可解释性的思考__【1】](https://www.jianshu.com/p/1d7b5c4ecb93)and [2-续](https://www.jianshu.com/p/b52efa66154e)
 33 | **Notes** | [Adam那么棒，为什么还对SGD念念不忘？一个框架看懂深度学习优化算法](https://mp.weixin.qq.com/s/EmWRaAOTNYE0Maf6_r41oA)
 34 | **Notes** | [计算机视觉中的半监督学习](https://mp.weixin.qq.com/s/a2QpQ8B7txLfBosGnH8vTQ)   
+35 | **Notes** | [Dropout技术一览：可视化解释以及在DNN/CNN/RNN中的应用](https://mp.weixin.qq.com/s/uoY9wSqinDkIhubJSdhKqg)   
 
 + Coding    
 
