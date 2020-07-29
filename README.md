@@ -29,6 +29,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 17 | **Self-supervision Learning** | [一文读懂 Self-supervision Learning](https://mp.weixin.qq.com/s/_Ck0cCXeCDhSythqH2aKxQ)  
 18 | **Edge Detection** | [Awesome-Edge-Detection-Papers](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers)  
 19 | **Representation Learning** | [什么是Representation Learning？](https://zhuanlan.zhihu.com/p/136554341)  
+20 | **Attention technology** | [Attention 相关主流研究](https://paperswithcode.com/methods/category/attention-mechanisms) 
 
 
 ## Related useful links
@@ -94,6 +95,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 :-: | :-: | :-  
 01 | **审稿、写作、注意完整流程** | [北大 施柏鑫](https://mp.weixin.qq.com/s/xB0l3hsFDES3RtBtOb5MPg) 
 02 | **如何做一个AI领域审稿人?** | [罗杰波](https://mp.weixin.qq.com/s/Zuey0kbNPQLWR_696fzAhA) 
+03 | **读科研论文的三个层次、四个阶段与十个问题** | [沈向洋](https://zhuanlan.zhihu.com/p/163617565) 
 
 ## Great Courses
 
