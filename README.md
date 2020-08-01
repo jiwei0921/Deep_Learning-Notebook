@@ -30,7 +30,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 18 | **Edge Detection** | [Awesome-Edge-Detection-Papers](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers)  
 19 | **Representation Learning** | [什么是Representation Learning？](https://zhuanlan.zhihu.com/p/136554341)  
 20 | **Attention technology** | [Attention 相关主流研究](https://paperswithcode.com/methods/category/attention-mechanisms) 
-
+21 | **few/zero/single shot learning** | [小样本元学习最新综述](https://arxiv.org/abs/2007.15484) 
 
 ## Related useful links
 
