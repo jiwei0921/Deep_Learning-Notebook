@@ -97,6 +97,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 01 | **审稿、写作、注意完整流程** | [北大 施柏鑫](https://mp.weixin.qq.com/s/xB0l3hsFDES3RtBtOb5MPg) 
 02 | **如何做一个AI领域审稿人?** | [罗杰波](https://mp.weixin.qq.com/s/Zuey0kbNPQLWR_696fzAhA) 
 :triangular_flag_on_post:03 | **读科研论文的三个层次、四个阶段与十个问题** | [沈向洋](https://zhuanlan.zhihu.com/p/163617565) 
+04 | **如何写/审AI领域的论文【VALSE Webinar】Panel实录** | [杨明玄、张磊、梅涛等](https://mp.weixin.qq.com/s/KZBs2yC05eEfcU0qHrlNSg) 
 
 ## Great Courses
 
