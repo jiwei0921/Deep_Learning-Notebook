@@ -114,6 +114,8 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 01 | **List of the most complete datasets** | [website link](https://www.datasetlist.com) 
 02 | **人脸识别数据集汇总** | [website link](https://mp.weixin.qq.com/s/S4pVjQEutDJHitOnh55x0A) 
 
+
+
 ## Other authors' paper list
 
 **No.** | **link** 
@@ -122,5 +124,17 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 02 | [张俊林_知乎-NLP](https://www.zhihu.com/people/zhang-jun-lin-76/posts)
 
 
+
+# Useful toolbox
+**No.** | **Tools.** | **Link** 
+:-: | :-: | :-  
+01 | **Vimplus** | https://github.com/chxuan/vimplus 
+02 | **Tmux** | https://blog.csdn.net/listen2you/article/details/78597093
+03 | **Git** | https://www.liaoxuefeng.com/wiki/896043488029600/900785521032192
+04 | **Hadoop fs** | http://hadoop.apache.org/docs/r1.0.4/cn/hdfs_shell.html
+05 | **crontab** | https://www.cnblogs.com/ftl1012/p/crontab.html
+06 | **grep** | https://blog.csdn.net/newchitu/article/details/84770915
+07 | **iterm2 screen** | https://www.jianshu.com/p/4a27bb4c216c
+08 | **iterm2 rz/sz** | https://www.jianshu.com/p/d1bef4140e34
 
 
