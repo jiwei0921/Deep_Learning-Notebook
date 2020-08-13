@@ -91,6 +91,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 08 | **Tools** | [Kaggle比赛之后，一份图像分割炼丹的「奇技淫巧」](https://zhuanlan.zhihu.com/p/137966918?utm_source=wechat_session&utm_medium=social&utm_oi=37894152519680).
 09 | **Tools** | [【资源分享总结】卷积神经网络中的即插即用模块](https://mp.weixin.qq.com/s/iDiEqgMqA_EeAVdmfnMaAA)和对应[源码](https://github.com/pprp/SimpleCVReproduction/tree/master/Plug-and-play%20module).  
 10 | **Code** | [一行代码缓解过拟合 ICML](https://zhuanlan.zhihu.com/p/163676138?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=37894152519680).    
+11 | **Tools** | [R 数据可视化 圈图](https://zhuanlan.zhihu.com/p/161678252)
 
 ## Writing skills
 
