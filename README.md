@@ -93,7 +93,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 10 | **Code** | [一行代码缓解过拟合 ICML](https://zhuanlan.zhihu.com/p/163676138?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=37894152519680).    
 11 | **Tools** | [R 数据可视化 圈图](https://zhuanlan.zhihu.com/p/161678252)
 12 | **Tools** | [动态数据可视化极简教程](https://zhuanlan.zhihu.com/p/183859890)
-13 | **Code** | [Pytorch 常踩的坑](https://zhuanlan.zhihu.com/p/180020358)
+13 | **Code** | [Pytorch 常踩的坑](https://zhuanlan.zhihu.com/p/180020358) and [Pytorch Tricks](https://github.com/zxdefying/pytorch_tricks)
 
 ## Writing skills
 
