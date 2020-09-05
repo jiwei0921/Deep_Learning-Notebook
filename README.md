@@ -34,7 +34,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 
 ## Related useful links
 
-+ Notes    
++ Notes
 
 **No.** | **Name** | **link**   
 :-: | :-: | :-   
