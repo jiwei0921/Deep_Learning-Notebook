@@ -95,6 +95,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 12 | **Tools** | [动态数据可视化极简教程](https://zhuanlan.zhihu.com/p/183859890)
 :triangular_flag_on_post:13 | **Code** | [Pytorch 常踩的坑](https://zhuanlan.zhihu.com/p/180020358) and [Pytorch Tricks](https://github.com/zxdefying/pytorch_tricks) and [深度学习调参技巧-wechat](https://mp.weixin.qq.com/s/YINkYc4MkYQsqKHJzyFw8Q) 
 :triangular_flag_on_post:14 | **Blog** | [深度学习调参技巧——知乎正版](https://www.zhihu.com/question/25097993)
+15 | **Tools** | [Matplotlib 最具价值的50个可视化项目](https://www.kesci.com/home/project/5f4b3f146476cf0036f7e51e)
 
 ## Writing skills
 
