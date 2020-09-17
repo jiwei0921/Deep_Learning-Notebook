@@ -146,5 +146,6 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 07 | **iterm2 screen** | https://www.jianshu.com/p/4a27bb4c216c
 08 | **iterm2 rz/sz** | https://www.jianshu.com/p/d1bef4140e34
 09 | **sypder debug** | https://jingyan.baidu.com/article/2fb0ba400ea08f40f3ec5f7e.html  
+10 | **Numpy notes** | https://github.com/juliangaal/python-cheat-sheet/blob/master/pdfs/NumPy.pdf  
 
 
