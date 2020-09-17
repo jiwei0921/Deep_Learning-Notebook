@@ -93,7 +93,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 10 | **Code** | [一行代码缓解过拟合 ICML](https://zhuanlan.zhihu.com/p/163676138?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=37894152519680).    
 11 | **Tools** | [R 数据可视化 圈图](https://zhuanlan.zhihu.com/p/161678252)
 12 | **Tools** | [动态数据可视化极简教程](https://zhuanlan.zhihu.com/p/183859890)
-:triangular_flag_on_post:13 | **Code** | [Pytorch 常踩的坑](https://zhuanlan.zhihu.com/p/180020358) and [Pytorch Tricks](https://github.com/zxdefying/pytorch_tricks) and [深度学习调参技巧-wechat](https://mp.weixin.qq.com/s/YINkYc4MkYQsqKHJzyFw8Q) 
+:triangular_flag_on_post:13 | **Code** | [Pytorch 常踩的坑](https://zhuanlan.zhihu.com/p/180020358) and [Pytorch Tricks](https://github.com/zxdefying/pytorch_tricks) and [深度学习调参技巧-wechat](https://mp.weixin.qq.com/s/YINkYc4MkYQsqKHJzyFw8Q) and [常用tricks-原理与代码汇总](https://mp.weixin.qq.com/s/ujr8XubG9jpvM-zOGcZxRw)
 :triangular_flag_on_post:14 | **Blog** | [深度学习调参技巧——知乎正版](https://www.zhihu.com/question/25097993)
 15 | **Tools** | [Matplotlib 最具价值的50个可视化项目](https://www.kesci.com/home/project/5f4b3f146476cf0036f7e51e)
 16 | **Tools** | [当代研究生应当掌握的并行训练方法-单机多卡](https://zhuanlan.zhihu.com/p/98535650)
