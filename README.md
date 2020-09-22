@@ -76,6 +76,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 36 | **Notes** | [Anchor-free应用一览](https://zhuanlan.zhihu.com/p/163266388)   
 :triangular_flag_on_post:37 | **Notes** | [一文读懂Faster RCNN](https://zhuanlan.zhihu.com/p/31426458)
 38 | **Notes** | [ranking loss度量学习，一个非end-to-end的相似性分布度量](https://zhuanlan.zhihu.com/p/158853633)   
+39 | **Notes** | [解决数据样本不均衡的常见策略OHEM,focal loss](https://mp.weixin.qq.com/s/iOAICJege2b0pCVxPkvNiA)
 
 + Coding    
 
