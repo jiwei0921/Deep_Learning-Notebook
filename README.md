@@ -125,6 +125,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 :-: | :-: | :-  
 01 | **List of the most complete datasets** | [website link](https://www.datasetlist.com) 
 02 | **人脸识别数据集汇总** | [website link](https://mp.weixin.qq.com/s/S4pVjQEutDJHitOnh55x0A) 
+03 | **AI数据服务平台提供商Graviti** | [website link](https://www.graviti.com)
 
 
 
