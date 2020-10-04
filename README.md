@@ -78,6 +78,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 :triangular_flag_on_post:37 | **Notes** | [一文读懂Faster RCNN](https://zhuanlan.zhihu.com/p/31426458)
 38 | **Notes** | [ranking loss度量学习，一个非end-to-end的相似性分布度量](https://zhuanlan.zhihu.com/p/158853633)   
 39 | **Notes** | [解决数据样本不均衡的常见策略OHEM,focal loss](https://mp.weixin.qq.com/s/iOAICJege2b0pCVxPkvNiA)
+:triangular_flag_on_post:40 | **Notes** | [基于深度卷积神经网络的小样本分割算法综述](https://mp.weixin.qq.com/s/P6ClhsUuRMp6BoBiJh021g)  
 
 + Coding    
 
