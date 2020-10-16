@@ -30,7 +30,8 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 19 | **Representation Learning** | [什么是Representation Learning？](https://zhuanlan.zhihu.com/p/136554341)  
 20 | **Attention technology** | [Attention 相关主流研究](https://paperswithcode.com/methods/category/attention-mechanisms) 
 21 | **few/zero/single shot learning** | [小样本元学习最新综述](https://arxiv.org/abs/2007.15484) 
-21 | **Deep Active learning** | [深度主动学习最新综述2020](https://mp.weixin.qq.com/s/eTQ6jhLEi0JASmUr1Kvt2A) 
+22 | **Deep Active learning** | [深度主动学习最新综述2020](https://mp.weixin.qq.com/s/eTQ6jhLEi0JASmUr1Kvt2A) 
+23 | **Medical model Uncertainty** | [医学图像模型不确定性论文和代码总结](https://github.com/JunMa11/MedUncertainty) 
 
 ## Related useful links
 
