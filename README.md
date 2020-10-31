@@ -14,7 +14,6 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 04 | **Human skeleton estimation** | [视觉俞刚，简要梳理](https://mp.weixin.qq.com/s/VWSyT96BWHFQaqVDR-GALg)   
 05 | **Face Detection** | [Related paper and code, dataset](https://github.com/ChanChiChoi/awesome-Face_Recognition)   
 06 | **Object Detection** | [Complete paper list](https://github.com/hoya012/deep_learning_object_detection) & [Related paper and code, dataset](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)
-**06+** | **Object Detection** | 20年目标检测综述 [章节1](https://mp.weixin.qq.com/s/pm0Sw_8pfmKLZrvJJDUncw),[章节2](https://mp.weixin.qq.com/s/GtjhDuWZTpRoWAYG4bkswA),[章节2+](https://mp.weixin.qq.com/s/C9DX1d8G8vths1uBPZpqng),[章节2++](https://mp.weixin.qq.com/s/TeqtaDA2-W6otUDN8O-Avg),[章节3](https://mp.weixin.qq.com/s/yd9sZ2Gj_HE63XrYWfnOZQ)  
 07 | **Transfer Learning** | [Related paper and code, dataset](https://github.com/artix41/awesome-transfer-learning)    
 08 | **Video Object Segmentation** | [Related paper and code, dataset](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Video-02-Video-Object-Segmentation.md)   
 09 | **Semantic Segmentation** | [Paper List](https://mp.weixin.qq.com/s/B3D5JxyRiUOaV0y8s7_w0g);[语义分割该如何走下去？](https://mp.weixin.qq.com/s/v-iFzmL1PAFkm1xRU8lUQg)   
