@@ -78,6 +78,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 38 | **Notes** | [ranking loss度量学习，一个非end-to-end的相似性分布度量](https://zhuanlan.zhihu.com/p/158853633)   
 39 | **Notes** | [解决数据样本不均衡的常见策略OHEM,focal loss](https://mp.weixin.qq.com/s/iOAICJege2b0pCVxPkvNiA)
 :triangular_flag_on_post:40 | **Notes** | [基于深度卷积神经网络的小样本分割算法综述](https://mp.weixin.qq.com/s/P6ClhsUuRMp6BoBiJh021g)  
+40 | **Notes** | [一步一步讲解卷积神经网络 from 吴恩达课件](https://mp.weixin.qq.com/s/KANPxk9BbsPesLuiiT9EGw)
 
 + Coding    
 
@@ -101,6 +102,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 16 | **Tools** | [当代研究生应当掌握的并行训练方法-单机多卡](https://zhuanlan.zhihu.com/p/98535650)
 17 | **Code** | [深度学习代码速查表](https://zhuanlan.zhihu.com/p/61013882)
 18 | **Tools** | [科研论文绘图实操干货汇总，11类Matplotlib图表，含代码](https://mp.weixin.qq.com/s/gxjZdNamXU2dKurYU53x1g)
+:triangular_flag_on_post:19 | **Code** | [特征可视化技术(CAM)原理，以及Heat map实现](https://mp.weixin.qq.com/s/WKImrtpjQBziz6Wr5uOGNw)
 
 ## Writing skills
 
