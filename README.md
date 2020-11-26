@@ -101,7 +101,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 15 | **Tools** | [Matplotlib 最具价值的50个可视化项目](https://www.kesci.com/home/project/5f4b3f146476cf0036f7e51e)
 16 | **Tools** | [当代研究生应当掌握的并行训练方法-单机多卡](https://zhuanlan.zhihu.com/p/98535650)
 17 | **Code** | [深度学习代码速查表](https://zhuanlan.zhihu.com/p/61013882)
-18 | **Tools** | [科研论文绘图实操干货汇总，11类Matplotlib图表，含代码](https://mp.weixin.qq.com/s/gxjZdNamXU2dKurYU53x1g)
+:triangular_flag_on_post:18 | **Tools** | [科研论文绘图实操干货汇总，11类Matplotlib图表，含代码](https://mp.weixin.qq.com/s/gxjZdNamXU2dKurYU53x1g) and [微生信，各种画图教程](http://www.bioinformatics.com.cn/?p=3) and [知乎](https://www.zhihu.com/question/312825165/answer/1595239374)
 :triangular_flag_on_post:19 | **Code** | [特征可视化技术(CAM)原理，以及Heat map实现](https://mp.weixin.qq.com/s/WKImrtpjQBziz6Wr5uOGNw)
 
 ## Writing skills
