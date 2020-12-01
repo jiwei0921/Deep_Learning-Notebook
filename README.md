@@ -95,7 +95,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 08 | **Tools** | [Kaggle比赛之后，一份图像分割炼丹的「奇技淫巧」](https://zhuanlan.zhihu.com/p/137966918?utm_source=wechat_session&utm_medium=social&utm_oi=37894152519680).
 09 | **Tools** | [【资源分享总结】卷积神经网络中的即插即用模块](https://mp.weixin.qq.com/s/iDiEqgMqA_EeAVdmfnMaAA)和对应[源码](https://github.com/pprp/SimpleCVReproduction/tree/master/Plug-and-play%20module).  
 10 | **Code** | [一行代码缓解过拟合 ICML](https://zhuanlan.zhihu.com/p/163676138?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=37894152519680).    
-11 | **Tools** | [R 数据可视化 圈图](https://zhuanlan.zhihu.com/p/161678252)
+11 | **Tools** | [R 数据可视化 圈图](https://zhuanlan.zhihu.com/p/161678252) and [tSNE 高维数据可视化](https://blog.csdn.net/qq_28888837/article/details/89278307)
 12 | **Tools** | [动态数据可视化极简教程](https://zhuanlan.zhihu.com/p/183859890)
 :triangular_flag_on_post:13 | **Code** | [Pytorch 常踩的坑](https://zhuanlan.zhihu.com/p/180020358) and [Pytorch Tricks](https://github.com/zxdefying/pytorch_tricks) and [深度学习调参技巧-wechat](https://mp.weixin.qq.com/s/YINkYc4MkYQsqKHJzyFw8Q) and [常用tricks-原理与代码汇总](https://mp.weixin.qq.com/s/ujr8XubG9jpvM-zOGcZxRw)
 :triangular_flag_on_post:14 | **Blog** | [深度学习调参技巧——知乎正版](https://www.zhihu.com/question/25097993)
