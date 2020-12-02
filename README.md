@@ -87,7 +87,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 :-: | :-: | :-    
 01 | **Code** | [33个神经网络训练技巧](https://mp.weixin.qq.com/s/GPNE2MZt-875nQZYRSF5YQ).    
 02 | **Code** | [pytorch查看网络中的参数](https://blog.csdn.net/appleml/article/details/81000301).   
-03 | **Code** | [pytorch trick超有用](https://mp.weixin.qq.com/s/o-V07uM5NBn-0kQOQYrImw).   
+03 | **Code** | [pytorch trick超有用](https://mp.weixin.qq.com/s/o-V07uM5NBn-0kQOQYrImw) and [竞赛中总结出来的图像分割的Tips和Tricks](https://mp.weixin.qq.com/s/2RE-rArsbw_Z2P-Uq8RWWQ).   
 04 | **Code** | [PyTorch-提取神经网络中间层特征进行可视化](https://www.jianshu.com/p/2fe73baa09b8?utm_source=oschina-app).  
 05 | **Code** | [感受野计算](https://cloud.tencent.com/developer/article/1179175)and[here](https://blog.csdn.net/Kerrwy/article/details/82430530).
 06 | **Code** | [医学图像分割的loss汇总](https://github.com/JunMa11/SegLoss).
