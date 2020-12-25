@@ -31,6 +31,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 21 | **few/zero/single shot learning** | [小样本元学习最新综述](https://arxiv.org/abs/2007.15484) 
 22 | **Deep Active learning** | [深度主动学习最新综述2020](https://mp.weixin.qq.com/s/eTQ6jhLEi0JASmUr1Kvt2A) 
 23 | **Medical model Uncertainty** | [医学图像模型不确定性论文和代码总结](https://github.com/JunMa11/MedUncertainty) 
+24 | **Visual Transformer** | [《视觉Transformer转换器》综述论文](https://www.zhuanzhi.ai/paper/40ab7c9e9bd080f833fda87da907a6b3) 
 
 ## Related useful links
 
