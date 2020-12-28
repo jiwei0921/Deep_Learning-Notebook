@@ -82,6 +82,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 :triangular_flag_on_post:40 | **Notes** | [基于深度卷积神经网络的小样本分割算法综述](https://mp.weixin.qq.com/s/P6ClhsUuRMp6BoBiJh021g)  
 40 | **Notes** | [一步一步讲解卷积神经网络 from 吴恩达课件](https://mp.weixin.qq.com/s/KANPxk9BbsPesLuiiT9EGw)
 41 | **Notes** | [如何寻找和阅读顶会论文？深度之眼](https://zhuanlan.zhihu.com/p/315578622)
+42 | **Notes** | [变形卷积核、可分离卷积？卷积神经网络中十大拍案叫绝的操作](https://zhuanlan.zhihu.com/p/28749411)
 
 + Coding    
 
