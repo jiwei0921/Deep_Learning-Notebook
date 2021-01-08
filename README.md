@@ -7,6 +7,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 ## Artificial Intelligence
 **No.** | **Name** | **link** 
 :-: | :-: | :-  
+:triangular_flag_on_post: 00 | **DeepLearning-500-questions** | [总结学习资料](https://github.com/scutan90/DeepLearning-500-questions)
 01 | **Salient Object Detection** | [Paper list1](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-) & [list2](https://github.com/ArcherFMY/Paper_Reading_List) 
 02 | **Person ReID** | [视频行人重识别2019各顶会顶刊文章](https://mp.weixin.qq.com/s/48RSm8PmYGzbn4JzgaL3EQ)   
 02+ | **Person ReID** | [Re-ID中的特征对齐--从ICCV 2017到CVPR 2020](https://mp.weixin.qq.com/s/ncMijASJshpQ9IxgA4Mr2A)   
