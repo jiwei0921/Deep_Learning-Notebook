@@ -119,6 +119,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 04 | **如何写/审AI领域的论文【VALSE Webinar】Panel实录** | [杨明玄、张磊、梅涛等](https://mp.weixin.qq.com/s/KZBs2yC05eEfcU0qHrlNSg) 
 05 | **Latex书写伪代码Algorithm2e指南** | [latex书些algorithm](https://zhuanlan.zhihu.com/p/166418214)  
 06 | **哥大读博五年总结 by Mike zhou** | [presentation skills (slides and papers)](https://zhuanlan.zhihu.com/p/338191470)
+07 | **学术论文投稿与返修（Rebuttal）经验分享** | [Rebuttal 经验贴](https://mp.weixin.qq.com/s/qbW33ff-gV815rSHsHgOoA) 
 
 ## Great Courses
 
