@@ -1,5 +1,5 @@
 # Deep_learning-Notebook
-针对人工智能相关领域（计算机视觉CV、自然语言处理NLP以及推荐系统Recsys）论文的阅读做一些简要总结.        
+针对人工智能相关领域（计算机视觉CV、自然语言处理NLP以及推荐系统Recsys）的知识点做一些简要总结.        
 Make some brief summaries on the reading of related papers (CV、 NLP and Recsys, etc.)     
 
 # Related useful links
