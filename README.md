@@ -84,6 +84,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 40 | **Notes** | [一步一步讲解卷积神经网络 from 吴恩达课件](https://mp.weixin.qq.com/s/KANPxk9BbsPesLuiiT9EGw)
 41 | **Notes** | [如何寻找和阅读顶会论文？深度之眼](https://zhuanlan.zhihu.com/p/315578622)
 42 | **Notes** | [变形卷积核、可分离卷积？卷积神经网络中十大拍案叫绝的操作](https://zhuanlan.zhihu.com/p/28749411)
+43 | **Notes** | [Ensemble 和 蒸馏/自蒸馏 的提升分析](https://mp.weixin.qq.com/s/ai0ktrtR2aY8g66F_PW0Hg)
 
 + Coding    
 
