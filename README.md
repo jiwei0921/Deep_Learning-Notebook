@@ -17,7 +17,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 06 | **Object Detection** | [Complete paper list](https://github.com/hoya012/deep_learning_object_detection) & [Related paper and code, dataset](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)
 07 | **Transfer Learning** | [Related paper and code, dataset](https://github.com/artix41/awesome-transfer-learning)    
 08 | **Video Object Segmentation** | [Related paper and code, dataset](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Video-02-Video-Object-Segmentation.md)   
-09 | **Semantic Segmentation** | [Paper List](https://mp.weixin.qq.com/s/B3D5JxyRiUOaV0y8s7_w0g);[语义分割该如何走下去？](https://mp.weixin.qq.com/s/v-iFzmL1PAFkm1xRU8lUQg)   
+09 | **Semantic Segmentation** | [Paper List](https://mp.weixin.qq.com/s/B3D5JxyRiUOaV0y8s7_w0g);[语义分割该如何走下去？](https://mp.weixin.qq.com/s/v-iFzmL1PAFkm1xRU8lUQg) 
 10 | **Instance Segmentation** | [实例分割最新最全面综述：从Mask R-CNN到BlendMask](https://mp.weixin.qq.com/s/clRKOIzj1lDSZs-XHhfHmQ),[单阶段实例分割（Single Shot Instance Segmentation）进展综述](https://mp.weixin.qq.com/s/jz0x-0bCG_avCb3FcQk4aQ)
 11 | **Super-resolution** | [深度学习超分辨率综述](https://mp.weixin.qq.com/s/G55dxHfMYxWzjz4_8YnUaw)  
 12 | **Pose estimation** | [基于深度学习目标姿态估计的论文一览（2017-2020）](https://mp.weixin.qq.com/s/756TeGF6fWY_rFwuHKp1Dw); [简述 Human Pose with Deep-learning](https://zhuanlan.zhihu.com/p/345201439)  
