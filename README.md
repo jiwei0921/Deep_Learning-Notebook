@@ -111,7 +111,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 :triangular_flag_on_post:18 | **Tools** | [科研论文绘图实操干货汇总，11类Matplotlib图表，含代码](https://mp.weixin.qq.com/s/gxjZdNamXU2dKurYU53x1g) and [微生信，各种画图教程](http://www.bioinformatics.com.cn/?p=3) and [知乎](https://www.zhihu.com/question/312825165/answer/1595239374) and [绘制和弦图,饼图,gene图](https://zhuanlan.zhihu.com/p/331713058)
 :triangular_flag_on_post:19 | **Code** | [特征可视化技术(CAM)原理，以及Heat map实现](https://mp.weixin.qq.com/s/WKImrtpjQBziz6Wr5uOGNw)
 20 | **Code** | [PyTorch特性,例如mask/cosine](https://mp.weixin.qq.com/s/CQSj7M6s0FJNtxMsN22vBw) 
-:triangular_flag_on_post:21 | **Code** | [好看的数据可视化](https://www.zhihu.com/question/26620885/answer/781273296) & [Bokeh圈图](https://docs.bokeh.org/en/latest/docs/gallery/burtin.html)
+:triangular_flag_on_post:21 | **Tools** | [好看的数据可视化](https://www.zhihu.com/question/26620885/answer/781273296) & [Bokeh圈图](https://docs.bokeh.org/en/latest/docs/gallery/burtin.html)
 
 ## Writing skills
 
