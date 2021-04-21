@@ -112,6 +112,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 :triangular_flag_on_post:19 | **Code** | [特征可视化技术(CAM)原理，以及Heat map实现](https://mp.weixin.qq.com/s/WKImrtpjQBziz6Wr5uOGNw)
 20 | **Code** | [PyTorch特性,例如mask/cosine](https://mp.weixin.qq.com/s/CQSj7M6s0FJNtxMsN22vBw) 
 :triangular_flag_on_post:21 | **Tools** | [好看的数据可视化](https://www.zhihu.com/question/26620885/answer/781273296) & [Bokeh圈图](https://docs.bokeh.org/en/latest/docs/gallery/burtin.html)
+21 | **Code** | [PyTorch在NLP任务中获取预训练词向量, gensin & glove](https://blog.csdn.net/nlpuser/article/details/83627709?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control)
 
 ## Writing skills
 
