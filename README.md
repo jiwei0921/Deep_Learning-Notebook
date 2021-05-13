@@ -12,7 +12,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 02 | **Person ReID** | [视频行人重识别2019各顶会顶刊文章](https://mp.weixin.qq.com/s/48RSm8PmYGzbn4JzgaL3EQ)   
 02+ | **Person ReID** | [Re-ID中的特征对齐--从ICCV 2017到CVPR 2020](https://mp.weixin.qq.com/s/ncMijASJshpQ9IxgA4Mr2A)   
 03 | **Recommender System** | [Related paper list](https://github.com/hongleizhang/RSPapers) & [Basis paper and code](https://github.com/princewen/tensorflow_practice)  
-04 | **Human skeleton estimation** | [视觉俞刚，简要梳理](https://mp.weixin.qq.com/s/VWSyT96BWHFQaqVDR-GALg)   
+04 | **Human skeleton estimation** | [视觉俞刚，简要梳理](https://mp.weixin.qq.com/s/VWSyT96BWHFQaqVDR-GALg); [一个很好的human pose with DL简述](https://zhuanlan.zhihu.com/p/345201439)   
 05 | **Face Detection** | [Related paper and code, dataset](https://github.com/ChanChiChoi/awesome-Face_Recognition)   
 06 | **Object Detection** | [Complete paper list](https://github.com/hoya012/deep_learning_object_detection) & [Related paper and code, dataset](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)
 07 | **Transfer Learning** | [Related paper and code, dataset](https://github.com/artix41/awesome-transfer-learning)    
