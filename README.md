@@ -86,6 +86,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 42 | **Notes** | [变形卷积核、可分离卷积？卷积神经网络中十大拍案叫绝的操作](https://zhuanlan.zhihu.com/p/28749411)
 43 | **Notes** | [Ensemble 和 蒸馏/自蒸馏 的提升分析](https://mp.weixin.qq.com/s/ai0ktrtR2aY8g66F_PW0Hg)
 :triangular_flag_on_post: 44 | **Notes:triangular_flag_on_post:** | [交叉熵损失函数原理详解](https://blog.csdn.net/b1055077005/article/details/100152102)  
+44 | **Notes** | [一文看尽深度学习中的20种卷积](https://mp.weixin.qq.com/s/5zwQPwZcWXZWPam5Jagy1Q) 
 
 + Coding    
 
