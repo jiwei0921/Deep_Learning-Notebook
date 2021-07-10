@@ -115,6 +115,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 :triangular_flag_on_post:21 | **Tools** | [好看的数据可视化](https://www.zhihu.com/question/26620885/answer/781273296) & [Bokeh圈图](https://docs.bokeh.org/en/latest/docs/gallery/burtin.html)
 21 | **Code** | [PyTorch在NLP任务中获取预训练词向量, gensin & glove](https://blog.csdn.net/nlpuser/article/details/83627709?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control)
 22 | **Drawing Tools** | [Python 可视化视频课](https://mp.weixin.qq.com/s/TSaiaJ6fF2zHqW8Qbdz0vA) 
+:triangular_flag_on_post:23 | **Annotated Tools** | [高效交互式分割标注软件](https://pypi.org/project/EISeg/) 
 
 ## Writing skills
 
