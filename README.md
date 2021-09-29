@@ -35,6 +35,8 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 24 | **Visual Transformer** | [《视觉Transformer转换器》综述论文](https://www.zhuanzhi.ai/paper/40ab7c9e9bd080f833fda87da907a6b3) and [Performer: 基于正交随机特征的快速注意力计算](https://zhuanlan.zhihu.com/p/319866371?utm_source=wechat_session&utm_medium=social&utm_oi=808377522126454784) and [万能 Transformer，你应该知道的一切！](https://mp.weixin.qq.com/s/3_grKB92unblMbpi_eXOoQ) and [Code解析](https://mp.weixin.qq.com/s/cLPMJm4u67QDsJg0IkmYFQ)
 25 | **Pose Estimation: A Survey in DL** | [基于深度学习的人体姿态估计综述：全面调研（2014-2020）](https://zhuanlan.zhihu.com/p/339527650) 
 26 | **Event Camera** | [视频慢动作](http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf) and [合成孔径成像](https://arxiv.org/pdf/2103.02376.pdf)
+27 | **RGB-D Semantic Segmentation** | [RGBD语义分割总结](https://github.com/Yangzhangcst/RGBD-semantic-segmentation)
+
 
 ## Related useful links
  
