@@ -122,6 +122,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 22 | **Drawing Tools** | [Python 可视化视频课](https://mp.weixin.qq.com/s/TSaiaJ6fF2zHqW8Qbdz0vA) 
 :triangular_flag_on_post:23 | **Annotated Tools** | [高效交互式分割标注软件](https://pypi.org/project/EISeg/) 
 :triangular_flag_on_post:24 | **Annotated Tools** | [医学标注Pair智能标注神器](https://www.eet-china.com/mp/a79025.html) 
+:triangular_flag_on_post:25 | **Project Tools** | [项目主页template](https://github.com/richzhang/webpage-template)
 
 ## Writing skills
 
