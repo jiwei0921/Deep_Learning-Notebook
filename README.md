@@ -92,6 +92,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 44 | **Notes** | [一文看尽深度学习中的20种卷积](https://mp.weixin.qq.com/s/5zwQPwZcWXZWPam5Jagy1Q) 
 45 | **Notes** | [数字图像处理:边缘检测(Edge detection operators)](https://zhuanlan.zhihu.com/p/59640437) 
 46 | **Notes** | [CE and MSE loss 区别？, CE for classify, MSE for regression](https://mp.weixin.qq.com/s/YS5tmr03EgxE0GlaVBdPPA) 
+:triangular_flag_on_post:47 | **Notes** | [多任务学习中各loss权重应该如何设计呢?](https://www.zhihu.com/question/359962155)
 
 + Coding    
 
