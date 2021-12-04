@@ -93,6 +93,8 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 45 | **Notes** | [数字图像处理:边缘检测(Edge detection operators)](https://zhuanlan.zhihu.com/p/59640437) 
 46 | **Notes** | [CE and MSE loss 区别？, CE for classify, MSE for regression](https://mp.weixin.qq.com/s/YS5tmr03EgxE0GlaVBdPPA) 
 :triangular_flag_on_post:47 | **Notes** | [多任务学习中各loss权重应该如何设计呢?](https://www.zhihu.com/question/359962155)
+:triangular_flag_on_post:48 | **Notes** | [transformer模型创新思路总结](https://mp.weixin.qq.com/s/MM7S1_fQ2n3ZaCKMzcFMxw)  
+
 
 + Coding    
 
