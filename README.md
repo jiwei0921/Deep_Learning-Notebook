@@ -96,6 +96,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 :triangular_flag_on_post:48 | **Notes** | [transformer模型创新思路总结](https://mp.weixin.qq.com/s/MM7S1_fQ2n3ZaCKMzcFMxw)  
 :triangular_flag_on_post:49 | **Notes** | [语义分割中的Cross Entropy Loss总结](https://blog.csdn.net/Fcc_bd_stars/article/details/105158215)  
 :triangular_flag_on_post:50 | **Notes** | [Event 事件相机的原理与应用简介](https://mp.weixin.qq.com/s/6uhqOb0TTz7gFmVq6bX4aA)  
+:triangular_flag_on_post:51 | **Notes** | [张祥雨 - 大一统模型的理解 - fit Proposal](https://mp.weixin.qq.com/s/BcJFFXcQylh1MLb5HEDieg) 
 
 
 + Coding    
