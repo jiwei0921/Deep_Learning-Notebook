@@ -36,6 +36,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 25 | **Pose Estimation: A Survey in DL** | [基于深度学习的人体姿态估计综述：全面调研（2014-2020）](https://zhuanlan.zhihu.com/p/339527650) 
 26 | **Event Camera** | [视频慢动作](http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf) and [合成孔径成像](https://arxiv.org/pdf/2103.02376.pdf)
 27 | **RGB-D Semantic Segmentation** | [RGBD语义分割总结](https://github.com/Yangzhangcst/RGBD-semantic-segmentation)
+28 | **Diffusion Model** | [生成扩散模型漫谈](https://kexue.fm/archives/9119) 
 
 
 ## Related useful links
