@@ -150,6 +150,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 :-: | :-: | :-  
 01 | **孙剑-中文深度学习课程** | [Video Link](https://mp.weixin.qq.com/s/bQUzsFybBpnPfINp8ikRgw) 
 02 | **2020深度学习基础文章合集-有道** | [Notes download](https://pan.baidu.com/s/1u4ZjmKBF37ToVxgczrdy9A), scxy
+03 | **最新学习技术-人工智能博客 Tian Feng** | [技术博客](https://tianfeng.space/) 
 
 
 ## Dataset list
