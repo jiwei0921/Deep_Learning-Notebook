@@ -98,7 +98,7 @@ Make some brief summaries on the reading of related papers (CV、 NLP and Recsys
 :triangular_flag_on_post:49 | **Notes** | [语义分割中的Cross Entropy Loss总结](https://blog.csdn.net/Fcc_bd_stars/article/details/105158215)  
 :triangular_flag_on_post:50 | **Notes** | [Event 事件相机的原理与应用简介](https://mp.weixin.qq.com/s/6uhqOb0TTz7gFmVq6bX4aA)  
 :triangular_flag_on_post:51 | **Notes** | [张祥雨 - 大一统模型的理解 - fit Proposal](https://mp.weixin.qq.com/s/BcJFFXcQylh1MLb5HEDieg) 
-:triangular_flag_on_post:52 | **Notes** | [大模型的Prompt Tuning/Adaption](https://mp.weixin.qq.com/s/0AAMzPCgmsXGxfLlHy3F5g) & [LoRA](https://mp.weixin.qq.com/s/4wn4cDEkmXhOiwggLpLiRw)
+:triangular_flag_on_post:52 | **Notes** | [大模型的Prompt Tuning/Adaption](https://mp.weixin.qq.com/s/0AAMzPCgmsXGxfLlHy3F5g) & [LoRA](https://mp.weixin.qq.com/s/4wn4cDEkmXhOiwggLpLiRw) & [中文详解 Adapter](https://blog.csdn.net/weixin_48185819/article/details/124408981) 
 
 
 + Coding    
